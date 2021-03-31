@@ -1,0 +1,13 @@
+C:\git\series\bin\Debug\netcoreapp3.1\series.exe
+C:\git\series\bin\Debug\netcoreapp3.1\series.deps.json
+C:\git\series\bin\Debug\netcoreapp3.1\series.runtimeconfig.json
+C:\git\series\bin\Debug\netcoreapp3.1\series.runtimeconfig.dev.json
+C:\git\series\bin\Debug\netcoreapp3.1\series.dll
+C:\git\series\bin\Debug\netcoreapp3.1\series.pdb
+C:\git\series\obj\Debug\netcoreapp3.1\series.csprojAssemblyReference.cache
+C:\git\series\obj\Debug\netcoreapp3.1\series.AssemblyInfoInputs.cache
+C:\git\series\obj\Debug\netcoreapp3.1\series.AssemblyInfo.cs
+C:\git\series\obj\Debug\netcoreapp3.1\series.csproj.CoreCompileInputs.cache
+C:\git\series\obj\Debug\netcoreapp3.1\series.dll
+C:\git\series\obj\Debug\netcoreapp3.1\series.pdb
+C:\git\series\obj\Debug\netcoreapp3.1\series.genruntimeconfig.cache
